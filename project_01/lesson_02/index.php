@@ -9,7 +9,15 @@
 </head>
 <body>
 
+<p>Hello world!</p>
 
+<?php
+
+echo '<p>Hello</p>';
+
+echo 'Hello чудо';
+
+?>
 
 </body>
 </html>
